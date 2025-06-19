@@ -30,4 +30,9 @@ A full-stack Java-based CRM web application using Spring MVC, Hibernate, JDBC, M
 4. Open browser at `localhost:8080/crm`
 
 ## 📂 Folder Structure
+src/
+└── main/
+├── java/ (controllers, service, dao, entities)
+├── resources/
+└── webapp/WEB-INF/ (jsp pages)
 
