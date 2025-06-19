@@ -32,7 +32,10 @@ A full-stack Java-based CRM web application using Spring MVC, Hibernate, JDBC, M
 ## 📂 Folder Structure
 src/
 └── main/
+
 ├── java/ (controllers, service, dao, entities)
+
 ├── resources/
+
 └── webapp/WEB-INF/ (jsp pages)
 
